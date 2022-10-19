@@ -1,4 +1,4 @@
-Najboljse knjige
+Najboljše knjige
 ================
 
 Analiziral bom prvih 10.000 knjig s seznama Best Books Ever na spletni strani [goodreads](https://www.goodreads.com/list/show/1.Best_Books_Ever?page=1).
